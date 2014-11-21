@@ -1,4 +1,4 @@
-package pattern.java;
+package samples.java;
 
 /*
  * 
